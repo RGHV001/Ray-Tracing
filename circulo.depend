@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1693436154 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\circulo\main.cpp
+	<iostream>
+	<fstream>
+	"vec3.h"
+	"ray.h"
+
+1693436154 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\circulo\include\vec3.h
+	"vec3.h"
+	<cmath>
+	<iostream>
+
+1693436154 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\circulo\include\ray.h
+	"vec3.h"
+
+1693436159 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\circulo\src\ray.cpp
+	"ray.h"
+
+1693436162 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\circulo\src\vec3.cpp
+	"VEC3.h"
+
