@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1694557439 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\conversão bmp\intersection\src\hittable.cpp
+	"hittable.h"
+
+1694557447 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\conversão bmp\intersection\include\hittable.h
+	"ray.h"
+
+1694557478 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\conversão bmp\intersection\src\sphere.cpp
+	"sphere.h"
+
+1694557484 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\conversão bmp\intersection\include\sphere.h
+	"hittable.h"
+	"vec3.h"
+
+1694557718 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\src\vec3.cpp
+	"VEC3.h"
+
+1694561139 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\vec3.h
+	<cmath>
+	<iostream>
+
+1694557761 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\src\ray.cpp
+	"ray.h"
+
+1694557766 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\ray.h
+	"vec3.h"
+
+1694557815 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\src\hitabble.cpp
+	"hitabble.h"
+
+1694558857 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\hitabble.h
+	"ray.h"
+
+1694560594 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\hittable.h
+	"ray.h"
+
+1694557885 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\src\sphere.cpp
+	"sphere.h"
+
+1694560176 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\sphere.h
+	"hittable.h"
+	"vec3.h"
+
+1694558210 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\src\rtweekend.cpp
+	"rtweekend.h"
+
+1694558215 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\rtweekend.h
+	<cmath>
+	<limits>
+	<memory>
+	"ray.h"
+	"vec3.h"
+
+1694558258 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\src\color.cpp
+	"color.h"
+
+1694558263 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\color.h
+	"vec3.h"
+	<iostream>
+
+1694558317 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\src\hittable_list.cpp
+	"hittable_list.h"
+
+1694559918 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\include\hittable_list.h
+	"hittable.h"
+	<memory>
+	<vector>
+
+1694634576 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\intersection\main.cpp
+	"rtweekend.h"
+	"color.h"
+	"hittable_list.h"
+	"sphere.h"
+	<iostream>
+
