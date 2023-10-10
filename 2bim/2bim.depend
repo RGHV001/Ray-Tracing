@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1696375400 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\main.cpp
+	"rtweekend.h"
+	"color.h"
+	"hittable_list.h"
+	"sphere.h"
+	<iostream>
+	"camera.h"
+
+1696373929 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\color.cpp
+
+1696373951 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\hitabble.cpp
+
+1696373997 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\hittable_list.cpp
+
+1696374021 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\ray.cpp
+
+1696374042 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\rtweekend.cpp
+
+1696374061 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\sphere.cpp
+
+1696374082 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\vec3.cpp
+
+1696374614 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\hittable.cpp
+
+1696375024 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\rtweekend.h
+	<cmath>
+	<limits>
+	<memory>
+	<random>
+	<cstdlib>
+	"ray.h"
+	"vec3.h"
+
+1696374503 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\ray.h
+	"vec3.h"
+
+1696375529 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\vec3.h
+	<cmath>
+	<iostream>
+
+1696376146 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\color.h
+	"vec3.h"
+	<iostream>
+
+1696374490 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\hittable_list.h
+	"hittable.h"
+	<memory>
+	<vector>
+
+1696374628 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\hittable.h
+	"ray.h"
+
+1696374532 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\sphere.h
+	"hittable.h"
+	"vec3.h"
+
+1696374711 source:c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\src\camera.cpp
+
+1696374715 c:\users\roger\onedrive\documentos\faculdade\8 periodo\topicos especiais 2\projetos\2bim\include\camera.h
+	"rtweekend.h"
+
