@@ -36,19 +36,23 @@
 		</Compiler>
 		<Unit filename="include/VEC3.h" />
 		<Unit filename="include/camera.h" />
+		<Unit filename="include/cilinder.h" />
 		<Unit filename="include/color.h" />
 		<Unit filename="include/hittable.h" />
 		<Unit filename="include/hittable_list.h" />
+		<Unit filename="include/material.h" />
 		<Unit filename="include/ray.h" />
 		<Unit filename="include/rtweekend.h" />
 		<Unit filename="include/sphere.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/VEC3.cpp" />
 		<Unit filename="src/camera.cpp" />
+		<Unit filename="src/cilinder.cpp" />
 		<Unit filename="src/color.cpp" />
 		<Unit filename="src/hitabble.cpp" />
 		<Unit filename="src/hittable.cpp" />
 		<Unit filename="src/hittable_list.cpp" />
+		<Unit filename="src/material.cpp" />
 		<Unit filename="src/ray.cpp" />
 		<Unit filename="src/rtweekend.cpp" />
 		<Unit filename="src/sphere.cpp" />
