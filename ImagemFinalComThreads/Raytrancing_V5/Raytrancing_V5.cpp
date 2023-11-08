@@ -1,15 +1,15 @@
-#include "rtweekend.h"      // Inclui um arquivo de cabeÁalho com funÁıes e constantes ˙teis.
-#include "color.h"          // Inclui um arquivo de cabeÁalho para lidar com cores.
-#include "hittable_list.h"  // Inclui um arquivo de cabeÁalho para a lista de objetos atingÌveis.
-#include "sphere.h"         // Inclui um arquivo de cabeÁalho para lidar com esferas.
+#include "rtweekend.h"      // Inclui um arquivo de cabe√ßalho com fun√ß√µes e constantes √∫teis.
+#include "color.h"          // Inclui um arquivo de cabe√ßalho para lidar com cores.
+#include "hittable_list.h"  // Inclui um arquivo de cabe√ßalho para a lista de objetos ating√≠veis.
+#include "sphere.h"         // Inclui um arquivo de cabe√ßalho para lidar com esferas.
 #include "camera.h"
 #include "material.h"
-#include <iostream>         // Inclui a biblioteca de entrada/saÌda padr„o do C++.
+#include <iostream>         // Inclui a biblioteca de entrada/sa√≠da padr√£o do C++.
 #include <thread>
 
 color ray_color(const ray& r, const hittable_list* world, int depth) {
     hit_record rec;
-    // Se excedemos o limite de reflexıes do raio, n„o h· mais luz coletada.
+    // Se excedemos o limite de reflex√µes do raio, n√£o h√° mais luz coletada.
     if (depth <= 0)
         return color(0, 0, 0);
     if (world->hit(r, 0.001, infinity, rec)) {
@@ -105,7 +105,7 @@ int main() {
     // Mundo
     auto world = random_scene();
 
-    // C‚mera
+    // C√¢mera
     point3 lookfrom(13, 2, 3);
     point3 lookat(0, 0, 0);
     vec3 vup(0, 1, 0);
@@ -129,7 +129,7 @@ int main() {
 
     //Render
     ofstream outfile;
-    outfile.open("C:\\Users\roger\OneDrive\Documentos\Faculdade\8periodo\topicosEspeciais2\imagemGeradafinal_image.bmp", ios::binary | ios::out);
+    outfile.open("C:\\Users\\roger\\OneDrive\\Documentos\\Faculdade\\8periodo\\topicosEspeciais2\\test1.bmp", ios::binary | ios::out);
     img.writeBitmapFile(outfile);
     outfile.close();
 
