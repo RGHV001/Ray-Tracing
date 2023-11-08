@@ -1,0 +1,8 @@
+﻿  Raytrancing_V5.cpp
+D:\Users\User\Desktop\Gustavo\Faculdade\Exercicios Matrakas\Topicos Especiais 2\ImagemFinalComThreads\Raytrancing_V5\rtweekend.h(51,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+  Gerando código
+  504 of 507 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    191 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Raytrancing_V5.vcxproj -> D:\Users\User\Desktop\Gustavo\Faculdade\Exercicios Matrakas\Topicos Especiais 2\ImagemFinalComThreads\x64\Release\Raytrancing_V5.exe
